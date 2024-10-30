@@ -22,7 +22,7 @@ export default function Home() {
       <Intro />
       <Description />
       <Section />
-      <div className='h-screen'></div>
+      <div className='h-screen c'></div>
     </main>
   );
 }
